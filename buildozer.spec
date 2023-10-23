@@ -47,7 +47,7 @@ requirements = python3, pygame, jnius, sdl2, sdl2_image, sdl2_mixer, sdl2_ttf, p
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename =
+#icon.filename =
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
